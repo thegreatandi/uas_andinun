@@ -18,12 +18,12 @@
     <ImageButton
         android:id="@+id/imageButton_on_off"
         android:layout_width="wrap_content"
-        android:layout_height="100dp"
+        android:layout_height="110dp"
         android:layout_below="@+id/imageViewLight"
         android:layout_alignParentLeft="true"
         android:layout_gravity="center"
-        android:layout_marginLeft="129dp"
-        android:layout_marginTop="225dp"
+        android:layout_marginLeft="12dp"
+        android:layout_marginTop="222dp"
         android:src="@drawable/mati" />
 
 </RelativeLayout>

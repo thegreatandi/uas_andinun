@@ -24,7 +24,7 @@
         android:layout_below="@+id/imageView"
         android:layout_marginLeft="26dp"
         android:layout_marginTop="39dp"
-        android:text="Nama    : Tedy Aditia"
+        android:text="Nama    : Muhammad Andinun"
         android:textColor="@color/white"
         tools:layout_editor_absoluteX="55dp"
         tools:layout_editor_absoluteY="481dp" />
@@ -48,7 +48,7 @@
         android:layout_below="@+id/textView"
         android:layout_marginLeft="26dp"
         android:layout_marginTop="3dp"
-        android:text="NIM       : 191011401826"
+        android:text="NIM       : 191011401820"
         android:textColor="@color/white"
         tools:layout_editor_absoluteX="55dp"
         tools:layout_editor_absoluteY="558dp" />
@@ -61,8 +61,9 @@
         android:layout_alignParentLeft="true"
         android:layout_alignParentRight="true"
         android:layout_marginTop="30dp"
-        android:text=""
-        android:textAlignment="center"
+        android:text="Hallo nama saya Muhammad Andinun, saya lahir di Jakarta tanggal 27 April 2000. Saat ini saya mahasiswa semester 6 berkuliah
+di Universitas Pamulang, dalam kesempatan kali ini saya mencoba membuat aplikasi android menggunakan Android Studio selain itu
+Aplikasi ini juga buat tugas saya dalam Ujian Akhir Semester"
         android:textColor="@color/white"
         android:textStyle="italic" />
 
